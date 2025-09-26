@@ -61,7 +61,7 @@ header .logo {
 
 header .container {
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     align-items: right;
 
 }
@@ -272,4 +272,5 @@ a {
 
 a:hover {
     text-decoration: underline;
+
 }
